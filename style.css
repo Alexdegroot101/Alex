@@ -1,0 +1,103 @@
+body {
+background-image: url(https://t4.ftcdn.net/jpg/04/18/31/75/360_F_418317533_ON4QkEtzIgjrZKYzvE55mpbu1rFTELUT.jpg); background-size:cover; background-repeat: repeat;
+}
+
+.text {
+    text-align: center;
+   font-size: 100px;
+    color: rgb(0, 0, 0);
+}
+.div {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+    
+
+    .divs{ 
+        display: flex; 
+        justify-content:center;
+        align-items: center;
+        height: 50vh;
+    }
+    .texten {
+        text-align: center;
+        font-size: 30px;
+         color: rgb(0, 102, 54);
+
+    }
+
+
+    .next1 {
+        background-color: black; background-size: cover; background-repeat: repeat;
+    }
+    
+    .meow {
+
+        text-align: center;
+        font-size: 60px;
+         color: rgb(255, 255, 255);
+    }
+
+    .meow2{
+        text-align: center;
+        font-size: 40px;
+         color: rgb(0, 0, 0);
+    }
+    
+    .card1 {
+        background-color: aquamarine;
+        border-radius: 30px;
+        margin: 0 100px 100px 100px;
+        padding: 40px 50px 50px 50px;
+        position: sticky;
+        top: 50%;
+        z-index: 1;
+        box-shadow: 0 0 100px -30px var(--background);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+      }
+    
+      .card2 {
+        background-color: aquamarine;
+        border-radius: 50px;
+        margin: 400px 100px 100px 100px;
+        padding: 40px 50px 50px 50px;
+        position: sticky;
+        top: 50%;
+        z-index: 1;
+        box-shadow: 0 0 100px -30px var(--background);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+      }
+
+      .beepboop{
+
+        text-align: center;
+        font-size: 30px;
+         color: rgb(43, 43, 43);
+
+      }
+
+      .kast{
+
+        text-align: top;
+        font-size: 40px;
+         color: rgb(0, 0, 0);
+      }
+
+      .mast{
+        display: flex; 
+        justify-content: center;
+        align-items: top;
+        height: 100vh;
+      }
+      
+        
+      
